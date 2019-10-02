@@ -1,0 +1,41 @@
+{
+  "places": [
+  {
+    "id": 1,
+    "coords": {
+      "lat": 59.888658,
+      "lon": 30.324546
+    },
+    "name": "Наша столовая",
+    "price": 200,
+    "image": "",
+    "description": "Столовая чтобы покушать"
+  },
+  {
+    "id": 2,
+    "coords": {
+      "lat": 59.889324,
+      "lon": 30.327584
+    },
+    "name": "Технодом",
+    "price": 150,
+    "image": "",
+    "description": "Бухло для технарей"
+  },
+  {
+    "id": 3,
+    "coords": {
+      "lat": 59.888032,
+      "lon": 30.330170
+    },
+    "name": "Гранд-Макет",
+    "price": 300,
+    "image": "",
+    "description": "Макеты + выпивка"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
